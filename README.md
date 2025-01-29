@@ -4,3 +4,4 @@ All the Python scripts are done during the learning of module 'Programming for B
 The script names start with 'Business programming seminar' and are quoted with topics under brackets, those are done as practice with specific topics.
 The scripts named with dates are done along with the lectures and do not have a particular topic.
 All the Python script are powered by Google Colab, with the extension name '.ipynb'.
+The ownership of Python programming done during internships belongs to the companies, hence the scripts displayed in the repository are all personal.
