@@ -1,7 +1,4 @@
 # Work-in-Python
-This repository contains all my work in python.
-All the Python scripts are done during the learning of module 'Programming for Business Application' (module code: IB2D40) in the University of Warwick.
-The script names start with 'Business programming seminar' and are quoted with topics under brackets, those are done as practice with specific topics.
-The scripts named with dates are done along with the lectures and do not have a particular topic.
-All the Python script are powered by Google Colab, with the extension name '.ipynb'.
-The ownership of Python programming done during internships belongs to the companies, hence the scripts displayed in the repository are all personal.
+1. This repository contains all my Python prototypes used for quantitative finance and business analysis.
+2. All the Python scripts with extension '.ipynb' are done during the learning of module 'Programming for Business Application' (module code: IB2D40) in the University of Warwick. The script names start with 'Business programming seminar' and are quoted with topics under brackets, those are done as practice with specific topics. All the Python script with the extension name '.ipynb' are powered by Google Colab.
+3. The Python scripts with extension '.py' are done during the internship and my personal research project.
